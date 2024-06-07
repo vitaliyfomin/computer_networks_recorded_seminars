@@ -1,0 +1,9 @@
+2024-06-07 09:58:10,337 - INFO - Server is listening...
+2024-06-07 09:58:19,833 - INFO - Connected with ('127.0.0.1', 39716)
+2024-06-07 09:58:19,941 - INFO - Nickname is Vit
+2024-06-07 09:58:28,089 - INFO - Received message: Vit: ghbdtn
+2024-06-07 09:58:34,345 - INFO - Received message: Vit: Привет
+2024-06-07 09:58:56,697 - INFO - Connected with ('127.0.0.1', 41924)
+2024-06-07 09:58:56,788 - INFO - Nickname is DIM
+2024-06-07 09:59:17,033 - INFO - Received message: DIM: Приветик
+2024-06-07 09:59:20,752 - INFO - Received message: Vit: ❤️
